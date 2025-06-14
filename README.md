@@ -40,8 +40,8 @@ sign-avatar-comfyui/
 
 ## 📦 결과물
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/8d81a8fd-eea2-4fe0-a3c7-c9357699e04f" height="300px" />
-    <img src="https://github.com/user-attachments/assets/92a5146c-9ae3-495f-a2a2-d2be6fb50d36" height="300px" />
+  <img src="https://github.com/user-attachments/assets/8d81a8fd-eea2-4fe0-a3c7-c9357699e04f" height="300px" style="display:inline-block; max-width:45%; margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/92a5146c-9ae3-495f-a2a2-d2be6fb50d36" height="300px" style="display:inline-block; max-width:45%;" />
 </p>
 
 
